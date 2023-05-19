@@ -8,10 +8,10 @@ const Head = () => {
           <div className="logo">
             <h1>AI</h1>
             <span>
-              Artificial Intelligence &{" "}
               <span className="eru">
                 {"("} ERU {")"}
-              </span>
+              </span>{" "}
+              Faculty of Artificial intelligence
             </span>
           </div>
 
