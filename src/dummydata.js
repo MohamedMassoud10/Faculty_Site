@@ -1,4 +1,4 @@
-let levelsCard = [
+const levelsCard = [
   {
     id: 1,
     levelName: "Level One",
@@ -12,4 +12,5 @@ let levelsCard = [
     levelName: "Level Three",
   },
 ];
+
 export default levelsCard;
