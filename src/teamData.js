@@ -20,7 +20,7 @@ const team = [
     id: "215035",
   },
   {
-    cover: "../public/images/team/",
+    cover: "./images/teamPics//khaled.jpg",
     name: "Khaled Alsayed",
     id: "215054",
   },
