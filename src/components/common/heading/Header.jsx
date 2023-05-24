@@ -22,19 +22,13 @@ const Header = () => {
               <Link to="/levelsHome">All Levels</Link>
             </li>
             <li>
-              <Link to="/about">About</Link>
-            </li>
-            <li>
               <Link to="/team">Team</Link>
             </li>
             <li>
               <Link to="/todolist">To Do List</Link>
             </li>
             <li>
-              <Link to="/journal">Quizzes</Link>
-            </li>
-            <li>
-              <Link to="/contact">Contact</Link>
+              <Link to="/quizzes">Quizzes</Link>
             </li>
           </ul>
           <div className="start">
